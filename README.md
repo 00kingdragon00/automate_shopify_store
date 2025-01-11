@@ -1,1 +1,1 @@
-# automate_shopify_store
+# Create shopify store automatically using cli
