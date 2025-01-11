@@ -1,0 +1,1 @@
+# automate_shopify_store
